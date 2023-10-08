@@ -1,5 +1,5 @@
 # MEASURING_SUCCESS_IN_TALENT_MANAGEMENT_NM2023TMID18083
-Yours dashboard public link:
+Tableau public dashboard link:
 https://public.tableau.com/views/BOOKMARK/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Tableau Public story link: 
