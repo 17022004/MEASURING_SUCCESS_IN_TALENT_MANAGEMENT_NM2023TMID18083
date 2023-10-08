@@ -6,6 +6,5 @@ Tableau Public story link:
 https://public.tableau.com/views/story_16966821699020/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Demonstration video link:
-https://public.tableau.com/views/story_16966821699020/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-blic.tableau.com-views-story_16966821699020-Story1--language=en-US&publish=yes&-display_count=n&-origin=viz_share_l.url…]()
+https://drive.google.com/file/d/1ZScnJXAdQT1bcCEIBbmzBbqPSIUCTq2p/view?usp=drivesdk
 
